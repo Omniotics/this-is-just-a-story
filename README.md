@@ -1,8 +1,8 @@
-# 🤖🙀 AI Safety for Fleshy Humans 🙀🤖
+# 🤖🙀 This Is Just A Story 🙀🤖
 
 **[READ HERE!](https://aisafety.dance)**
 
-Made by [Nicky Case](https://ncase.me) in collaboration with teens @ [Hack Club](https://hackclub.com)
+Template by [Nicky Case](https://ncase.me) and [Hack Club](https://hackclub.com)
 
 ### Open Source Credits:
 
