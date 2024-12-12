@@ -1,6 +1,6 @@
 # 🤖🙀 This Is Just A Story 🙀🤖
 
-**[READ HERE!]([https://omniotics.github.io/this-is-just-a-story/])**
+**[READ HERE!](https://aisafety.dance)**
 
 Template by [Nicky Case](https://ncase.me) and [Hack Club](https://hackclub.com)
 
