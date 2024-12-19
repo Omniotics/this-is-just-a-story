@@ -241,21 +241,21 @@ s{
     width:100%;
     font-weight: 900;
     font-size: 60px;
-    color:#000;
+    color:#FFF;
     text-align: center;
     overflow: hidden;
-    animation: header-background 8s linear infinite;
+    animation: header-background 12s linear infinite; 
 }
 @keyframes header-background {
     0% {
-        background-color: #F00000;
+        background-color: #0ea47a;
     }
     50% {
-        background-color: #91237A;
+        background-color: #0ea47a;
     }
     100%{
-        background-color: #F00000;
-    }
+        background-color: #0ea47a;
+    } 
 }
 #header #splash_image{
     position: absolute;
@@ -263,7 +263,7 @@ s{
     height: 100%;
 }
 #header > #header_words{
-    color: #fff;
+    color: #000;
     position: relative;
     top: 0;
     width: 100%;
@@ -278,13 +278,13 @@ s{
     margin-top: 10px;
 }
 #header a{
-    color:#fff;
+    color:#FFF;
     position: relative;
     transition: top 0.1s;
     top:0px;
 }
 #header a:hover{
-    color:#fff;
+    color:#FFF;
     top:-2px;
 }
 
@@ -304,8 +304,10 @@ s{
 #header > #header_words{
     position: absolute;
     top: 355px;
-    text-shadow: -3px 0px 0px rgba(255,0,0,0.35), 3px 0px 0px rgba(0,0,255,0.35);
+/*    text-shadow: -3px 0px 0px rgba(255,0,0,0.35), 3px 0px 0px rgba(0,0,255,0.35); */
 }
+
+/*
 #crt_lines, #nb--crt_lines{
     background: url(../media/splash/crt_lines.png);
     width: 100%;
@@ -323,6 +325,7 @@ s{
     background-size: 100% 100%;
     background-position: 0px 250px;
 }
+*/
 
 /* FOR ARTICLE */
 #header.chapter{
