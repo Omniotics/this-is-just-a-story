@@ -248,13 +248,13 @@ s{
 }
 @keyframes header-background {
     0% {
-        background-color: #41898D;
+        background-color: #F00000;
     }
     50% {
         background-color: #91237A;
     }
     100%{
-        background-color: #41898D;
+        background-color: #F00000;
     }
 }
 #header #splash_image{
