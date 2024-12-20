@@ -846,7 +846,7 @@ input#submit:hover{
         width: 360px;
     }
     #chapter_nav_centered > a > div{
-        line-height:41px;
+        line-height:20px;
     }
     #chapter_nav a > div {
         width: 60px;
