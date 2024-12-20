@@ -304,28 +304,7 @@ s{
 #header > #header_words{
     position: absolute;
     top: 355px;
-/*    text-shadow: -3px 0px 0px rgba(255,0,0,0.35), 3px 0px 0px rgba(0,0,255,0.35); */
 }
-
-/*
-#crt_lines, #nb--crt_lines{
-    background: url(../media/splash/crt_lines.png);
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    background-size: 100% 100%;
-}
-#static, #nb--static{
-    background: url(../media/splash/static.png);
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    background-size: 100% 100%;
-    background-position: 0px 250px;
-}
-*/
 
 /* FOR ARTICLE */
 #header.chapter{
@@ -344,8 +323,6 @@ s{
     font-size: 40px;
     margin-top: -10px;
 }
-
-
 
 
 
