@@ -399,19 +399,9 @@ s{
     text-decoration: none;
 }
 
-#chapter_nav a > div {
-    display: flex;
-    align-items: center;   /* Vertically center text */
-    justify-content: center; /* Horizontally center text if needed */
-    height: 40px;
-    font-size: 16px;
-    color: rgba(128,128,128,0.8);
-    border-left: 1px solid rgba(128,128,128,0.8);
-    transition: background 0.2s;
-    background: rgba(255,255,255,0);
-}
 
-/*
+
+
 #chapter_nav a > div{
     float: left;
     width: 120px;
@@ -423,7 +413,7 @@ s{
     transition: background 0.2s;
     background: rgba(255,255,255,0);
 }
-*/
+
 
 #chapter_nav a.live:hover > div{
     cursor: pointer;
